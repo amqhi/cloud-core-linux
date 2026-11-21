@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = git@github.com:amqhi/cloud-core.git
+[submodule "shared-core"]
+	path = shared-core
+	url = git@github.com:amqhi/shared-core.git
+[submodule "shared-core-linux"]
+	path = shared-core-linux
+	url = git@github.com:amqhi/shared-core-linux.git
